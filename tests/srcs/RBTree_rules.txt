@@ -1,0 +1,11 @@
+
+I.   Every single node in the tree must be either red or black.
+
+II.  The root node of the tree must always be black.
+
+III. Two red nodes can never appear consecutively, one after another; a red node must always be preceded by a black node (it must have a black parent node), and a red node must always have black children nodes.
+
+IV.  Every branch path — the path from a root node to an empty (null) leaf node — must pass through the exact same number of black nodes.
+
+
+______
